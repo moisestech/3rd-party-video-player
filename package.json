@@ -1,0 +1,20 @@
+{
+  "name": "3rd-party-video-player",
+  "version": "1.0.0",
+  "description": "3rd Party Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisestech/3rd-party-video-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisestech/3rd-party-video-player/issues"
+  },
+  "homepage": "https://github.com/moisestech/3rd-party-video-player#readme"
+}
